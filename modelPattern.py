@@ -1,4 +1,4 @@
-#!#!/usr/bin/env python3
+#!/usr/bin/env python3
 
 # PURPOSE: observerd from https://youtu.be/rnatu3xxVQE; good pattern for py files
 
